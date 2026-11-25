@@ -1,0 +1,15 @@
+{
+  "name": "野球成績管理アプリ",
+  "short_name": "野球成績",
+  "description": "試合・選手成績を記録、集計する野球管理アプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f4f6",
+  "theme_color": "#1b4332",
+  "icons": [
+    {"src": "icons/icon-192.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any"},
+    {"src": "icons/icon-512.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
